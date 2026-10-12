@@ -1,0 +1,58 @@
+body {
+    background-color: #f4f6f9;
+    color: #243044;
+}
+
+header {
+    background: linear-gradient(120deg, #1646a0, #0875c9) !important;
+}
+
+.card {
+    border: 1px solid #e1e6ee;
+    border-radius: 12px;
+}
+
+.card-header {
+    padding: 16px 20px;
+    border-bottom: 1px solid #e9edf3;
+}
+
+.opportunity-item {
+    border: 1px solid #e1e6ee;
+    border-radius: 10px;
+    padding: 18px;
+    margin-bottom: 14px;
+    background: white;
+}
+
+.opportunity-item h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.opportunity-item p {
+    color: #596579;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 7px;
+    flex-wrap: wrap;
+}
+
+.action-buttons .btn {
+    font-size: 0.82rem;
+}
+
+#message:empty {
+    display: none;
+}
+
+#detailsContent p {
+    margin-bottom: 10px;
+    overflow-wrap: anywhere;
+}
+
+footer {
+    font-size: 0.9rem;
+}
