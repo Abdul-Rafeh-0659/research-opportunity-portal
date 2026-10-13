@@ -67,7 +67,7 @@ Install Node.js, npm, and MySQL 8.
 
 ### 2. Clone the Repository
 
-    git clone REPLACE_WITH_ACTUAL_GITHUB_URL
+    git clone https://github.com/Abdul-Rafeh-0659/research-opportunity-portal
     cd research-opportunity-portal
 
 ### 3. Create the Database
@@ -188,7 +188,7 @@ The collection automatically stores the first created opportunity ID.
 
 ## GitHub Repository
 
-REPLACE_WITH_ACTUAL_GITHUB_URL
+https://github.com/Abdul-Rafeh-0659/research-opportunity-portal
 
 ## Demonstration
 
