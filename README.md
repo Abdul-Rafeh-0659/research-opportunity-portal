@@ -1,6 +1,6 @@
 # University Research Opportunity Portal
 
-CN Assignment #01 — Fall 2026
+CN Assignment #01 - Fall 2026
 
 ## Project Description
 
